@@ -1,0 +1,100 @@
+# גלריית מכירת ציורים — Generative Engine Optimization Map
+
+> An online art store focused on selling original paintings. The site should be clean, simple, and user-friendly, displaying each painting as a photo with its price clearly shown beneath it. The aesthetic is straightforward and accessible, designed to let the artwork speak for itself.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ציורים למכירה אונליין במחירים שקופים וברורים. כל יצירה מוצגת עם תמונה ומחיר — בחרו את הציור המושלם לביתכם עוד היום והפכו כל קיר לחוויה אמנותית.
+
+### אודות
+https://example.com/about
+אנחנו מאמינים שאמנות שייכת לכולם. גלו את הסיפור שמאחורי גלריית ציורים אונליין ישראל, הערכים שמנחים אותנו והמחויבות שלנו להביא יצירות מקוריות ישירות אל ביתכם.
+
+### מדריך קנייה
+https://example.com/buying-guide
+מדריך קנייה מקיף לכל מי שרוצה לרכוש ציורים מקוריים לבית בביטחון מלא. טיפים לבחירת סגנון, גודל ומחיר — כל מה שצריך לדעת לפני שמחליטים, במקום אחד נוח וברור.
+
+### צור קשר
+https://example.com/contact
+מחפשים ציור מתנה יוקרה או זקוקים לעזרה בבחירת יצירה? צוות הגלריה שלנו כאן בשבילכם. צרו קשר עכשיו ונשמח לעזור לכם למצוא את הציור המושלם לכל מטרה ותקציב.
+
+### Products
+https://example.com/products
+המוצרים שלנו - גלריית מכירת ציורים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - גלריית מכירת ציורים
+
+### Category
+https://example.com/category/:slug
+מוצרים - גלריית מכירת ציורים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גלריית מכירת ציורים
+An online art store focused on selling original paintings. The site should be clean, simple, and user-friendly, displaying each painting as a photo with its price clearly shown beneath it. The aesthetic is straightforward and accessible, designed to let the artwork speak for itself.
+
+## Target Audience
+- אספני אומנות אונליין
+- מעצבי פנים
+- קונים מתנות יוקרה
+
+## Industry
+Art & Paintings E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
